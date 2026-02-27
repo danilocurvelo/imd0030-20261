@@ -1,0 +1,96 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: IMD0030
+description: Linguagem de Programação I
+tagline: Universidade Federal do Rio Grande do Norte, 2026.1
+author: Danilo Curvelo
+baseurl: '/imd0030-20261' # the subpath of your site, e.g. /blog
+url: 'https://danilocurvelo.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+include: [".htaccess"]
+future: true
+google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
+canvas: '#'
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.4.1
+color_scheme: contrast
+search_enabled: false
+search:
+  heading_level: 3
+heading_anchors: true
+permalink: pretty
+back_to_top: true
+back_to_top_text: Voltar ao topo
+footer_content: 'Template by Kevin Lin &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+enable_copy_code_button: true
+
+callouts:
+  note:
+    color: grey-lt
+  hint:
+    title: Hint
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+  deliverable:
+    title: Deliverable
+    color: green
+
+just_the_docs:
+  collections:
+    posts:
+      nav_exclude: true
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: redirect
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
