@@ -53,13 +53,13 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
             style="top: 0px; height: 80px;">
           <div class="name">Turma 05</div>
           <div class="time">18:40–20:20</div>
-          <div class="location">A102</div>
+          <div class="location">A309</div>
         </li>
         <li class="schedule-event happy-hour"
             style="top: 80px; height: 80px;">
           <div class="name">Turma 06</div>
           <div class="time">20:30–22:10</div>
-          <div class="location">A3102</div>
+          <div class="location">A309</div>
         </li>
       </ul>
     </li>
@@ -75,13 +75,13 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
             style="top: 0px; height: 80px;">
           <div class="name">Turma 05</div>
           <div class="time">18:40–20:20</div>
-          <div class="location">A102</div>
+          <div class="location">A309</div>
         </li>
         <li class="schedule-event happy-hour"
             style="top: 80px; height: 80px;">
           <div class="name">Turma 06</div>
           <div class="time">20:30–22:10</div>
-          <div class="location">A102</div>
+          <div class="location">A309</div>
         </li>
       </ul>
     </li>
