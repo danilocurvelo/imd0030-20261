@@ -16,12 +16,12 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
   : [GitHub Classroom](https://classroom.github.com/a/Z5Kpsxgq), [Slides](https://docs.google.com/presentation/d/1k9YfIIonw4EDqufsU5_r0Pa8JRnCHskZxeZ3pUwW73I/edit?usp=sharing)
 
-<!-- 
 
 24/03
-: **Lab**{: .label .label-yellow } Testando o ambiente
-  : [GitHub Classroom](#)
+: **Lab**{: .label .label-yellow } A linguagem C++
+  : [GitHub Classroom](https://classroom.github.com/a/Lc_TcZK6)
 
+<!-- 
 
 #### Modularização
 
