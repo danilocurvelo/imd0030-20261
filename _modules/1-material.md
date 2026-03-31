@@ -21,13 +21,15 @@ title: Material
 : **Lab**{: .label .label-yellow } A linguagem C++
   : [GitHub Classroom](https://classroom.github.com/a/Lc_TcZK6)
 
-<!-- 
+
 
 #### Modularização
 
-08/04
+31/03
 : **Conteúdo**{: .label .label-purple } Modularização
-  : [Slides](https://docs.google.com/presentation/d/1PpytQhnOpLg9RgF_VOczadh3Nv-aNbgphAUQsRvXQh4/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1pnZ3FoHdnH3OPsSNfuxJZA-CLGulxnNcfiUAiDDtSwc/edit?usp=sharing)
+
+  <!-- 
 
 10/04
 : **Lab**{: .label .label-yellow } Modularização na prática
