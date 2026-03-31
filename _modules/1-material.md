@@ -29,7 +29,7 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Modularização
   : [Slides](https://docs.google.com/presentation/d/1pnZ3FoHdnH3OPsSNfuxJZA-CLGulxnNcfiUAiDDtSwc/edit?usp=sharing)
 
-  <!-- 
+<!--   
 
 10/04
 : **Lab**{: .label .label-yellow } Modularização na prática
