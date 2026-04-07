@@ -29,11 +29,13 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Modularização
   : [Slides](https://docs.google.com/presentation/d/1pnZ3FoHdnH3OPsSNfuxJZA-CLGulxnNcfiUAiDDtSwc/edit?usp=sharing)
 
-<!--   
+  
 
 10/04
 : **Lab**{: .label .label-yellow } Modularização na prática
-  : [GitHub Classroom](https://classroom.github.com/a/l2e_srb2)
+  : [GitHub Classroom](https://classroom.github.com/a/P_TL8wZg)
+
+<!-- 
 
 #### Recursão
 
