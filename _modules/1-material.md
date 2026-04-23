@@ -56,17 +56,17 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Introdução a OO
   : [Slides](https://docs.google.com/presentation/d/1--VYs2ZYcgC5sMaOxIWP9K1LgUagmIF5vblZfEwKYQM/edit?usp=sharing)
 
-23/04
+28/04
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
   : [Slides](#)
 
-28/04
+30/04
 : **Lab**{: .label .label-yellow } POO na prática
   : [GitHub Classroom](#)
 
 #### AVALIAÇÃO
 
-30/04
+05/05
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
