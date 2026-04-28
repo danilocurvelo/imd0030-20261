@@ -58,7 +58,7 @@ title: Material
 
 28/04
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1is8C1M6PztciZZlZx5MmPkqkUoSRckttuhXwwWQtgtU/edit?usp=sharing)
 
 30/04
 : **Lab**{: .label .label-yellow } POO na prática
