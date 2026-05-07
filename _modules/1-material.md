@@ -70,14 +70,20 @@ title: Material
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
-<!-- 
+
 
 
 #### Sobrecarga (_overloading_)
 
-13/05
+07/05
 : **Conteúdo**{: .label .label-purple } Sobrecarga de funções e passagem por referência
-  : [Slides](https://docs.google.com/presentation/d/1XLk4YUiHR-tvuoPucY8lp90rgkfg-LJ8d1n45c5ye-0/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1-cfi-3pi1geY9xFYnrz_Wza12QQJglF3W3EHEo9cfaM/edit?usp=sharing)
+
+12/05
+: **Lab**{: .label .label-yellow } Sobrecarga de funções e passagem por referência
+  : [GitHub Classroom](#)
+
+<!-- 
 
 13/05
 : **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
