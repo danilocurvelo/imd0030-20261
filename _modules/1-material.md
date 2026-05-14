@@ -79,22 +79,16 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Sobrecarga de funções e passagem por referência
   : [Slides](https://docs.google.com/presentation/d/1-cfi-3pi1geY9xFYnrz_Wza12QQJglF3W3EHEo9cfaM/edit?usp=sharing)
 
-12/05
-: **Lab**{: .label .label-yellow } Sobrecarga de funções e passagem por referência
+14/05
+: **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
+  : [Slides](https://docs.google.com/presentation/d/1JidF5UAzzSFEyqKolcHK8MCQuZjib3VTdAdVVN4a8fE/edit?usp=sharing)
+
+19/05
+: **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
   : [GitHub Classroom](#)
 
+
 <!-- 
-
-13/05
-: **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
-  : [Slides](https://docs.google.com/presentation/d/1KQCkVJzztNhtP-FxodlAfxPpiytzy4vIA5PEdfsdiaw/edit?usp=sharing)
-
-15/05
-: **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
-  : [GitHub Classroom](https://classroom.github.com/a/K2pKH6YN)
-
-
-
 
 #### Programação genérica
 
