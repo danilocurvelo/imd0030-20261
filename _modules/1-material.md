@@ -92,11 +92,11 @@ title: Material
 
 #### Herança, classes abstratas e interfaces
 
-29/05
+26/05
 : **Conteúdo**{: .label .label-purple } Herança, classes abstratas e interfaces
   : [Slides](https://docs.google.com/presentation/d/19fOmAGOXQiYlPeFEQpjXCabLzx92bLIFvqwPhK-ukis/edit?usp=sharing)
 
-03/06
+28/05
 : **Lab**{: .label .label-yellow } Herança
   : [GitHub Classroom](#)
 
