@@ -97,8 +97,8 @@ title: Material
   : [Slides](https://docs.google.com/presentation/d/19fOmAGOXQiYlPeFEQpjXCabLzx92bLIFvqwPhK-ukis/edit?usp=sharing)
 
 28/05
-: **Lab**{: .label .label-yellow } Herança
-  : [GitHub Classroom](#)
+: **Lab**{: .label .label-yellow } Herança e classes abstratas
+  : [GitHub Classroom](https://classroom.github.com/a/7Ub43yjY)
 
 <!-- 
 
