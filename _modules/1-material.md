@@ -100,18 +100,19 @@ title: Material
 : **Lab**{: .label .label-yellow } Herança e classes abstratas
   : [GitHub Classroom](https://classroom.github.com/a/7Ub43yjY)
 
-<!-- 
+
 
 #### Programação genérica
 
-20/05
+02/06
 : **Conteúdo**{: .label .label-purple } Templates de funções e classes
-  : [Slides](https://docs.google.com/presentation/d/13tZi66WmY2bOXqSl3HVFhjRKwBkY0xRVdPj0G09eRmA/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1jV4EPM8yl8g7s78Nhn3hsmYStWGv02YKqHlsDMcfUw8/edit?usp=sharing)
 
-27/05
+07/06
 : **Lab**{: .label .label-yellow } Templates de funções e classes
-  : [GitHub Classroom](https://classroom.github.com/a/yY_X5NoI)
+  : [GitHub Classroom](#)
 
+<!-- 
 
 #### Gerenciamento de I/O
 
