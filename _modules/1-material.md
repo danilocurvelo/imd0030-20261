@@ -110,7 +110,7 @@ title: Material
 
 07/06
 : **Lab**{: .label .label-yellow } Templates de funções e classes
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/EpRNMSNp)
 
 <!-- 
 
