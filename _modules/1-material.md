@@ -104,11 +104,11 @@ title: Material
 
 #### Programação genérica
 
-02/06
+07/06
 : **Conteúdo**{: .label .label-purple } Templates de funções e classes
   : [Slides](https://docs.google.com/presentation/d/1jV4EPM8yl8g7s78Nhn3hsmYStWGv02YKqHlsDMcfUw8/edit?usp=sharing)
 
-07/06
+09/06
 : **Lab**{: .label .label-yellow } Templates de funções e classes
   : [GitHub Classroom](https://classroom.github.com/a/EpRNMSNp)
 
