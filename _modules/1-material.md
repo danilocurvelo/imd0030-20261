@@ -112,6 +112,10 @@ title: Material
 : **Lab**{: .label .label-yellow } Templates de funções e classes
   : [GitHub Classroom](https://classroom.github.com/a/EpRNMSNp)
 
+
+
+#### Tipos Abstratos de Dados
+
 11/06
 : **Conteúdo**{: .label .label-purple } TADs e STL
   : [Slides](https://docs.google.com/presentation/d/1wsJc3FGWOk2jPJtgGX83tDDvRiktxyNK5DYvbE5tvHE/edit?usp=sharing) 
