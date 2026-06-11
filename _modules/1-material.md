@@ -104,13 +104,21 @@ title: Material
 
 #### Programação genérica
 
-07/06
+04/06
 : **Conteúdo**{: .label .label-purple } Templates de funções e classes
   : [Slides](https://docs.google.com/presentation/d/1jV4EPM8yl8g7s78Nhn3hsmYStWGv02YKqHlsDMcfUw8/edit?usp=sharing)
 
 09/06
 : **Lab**{: .label .label-yellow } Templates de funções e classes
   : [GitHub Classroom](https://classroom.github.com/a/EpRNMSNp)
+
+11/06
+: **Conteúdo**{: .label .label-purple } TADs e STL
+  : [Slides](https://docs.google.com/presentation/d/1wsJc3FGWOk2jPJtgGX83tDDvRiktxyNK5DYvbE5tvHE/edit?usp=sharing) 
+
+16/06
+: **Lab**{: .label .label-yellow } TADs e STL
+  : [GitHub Classroom](#)
 
 <!-- 
 
